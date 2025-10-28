@@ -1,6 +1,6 @@
 # Aaditya B Chatterjee - Portfolio Website
 
-![Portfolio Screenshot](https://raw.githubusercontent.com/AadityaRaj402/abc-html-css-portfolio/refs/heads/main/images/screenshot.png)
+![Portfolio Screenshot](https://raw.githubusercontent.com/AadityaRaj402/abc-html-css-portfolio/refs/heads/main/screenshot.png)
 
 A professional, responsive portfolio website built with pure HTML and CSS. 
 It showcases my skills as a Full Stack Software Developer, featuring sections for 
